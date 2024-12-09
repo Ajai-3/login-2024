@@ -1,0 +1,50 @@
+body {
+    background-image: url("");
+    font-family: 'Times New Roman', Times, serif;
+    /* background-color: #303030; */
+    background-color: #8e8a8a;
+    color: #f8f6f6;
+}
+
+.bg {
+    background-color: rgb(2, 41, 41);
+}
+
+/* input */
+#name,
+#email,
+#password {
+    font-size: 12px;
+    padding: 3px;
+    color: #c6c3c3;
+    outline: none; 
+    background-color: transparent; 
+    border: 1px solid #dbd7d7;
+    border-radius: 5px;
+}
+
+.custem-form {
+    color: green;
+}
+
+
+/* main div */
+.main-div {
+    width: 300px;
+    border-radius: 6px;
+    background-color: rgba(0, 0, 0, 0.5);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, .5);
+}
+
+
+/* register button a tag*/
+.reg-a {
+    color: #bd3739;
+    text-decoration: none;
+    font-size: 8px;
+}
+
+p {
+    color: #b7aeae;
+    font-size: 10px;
+}
